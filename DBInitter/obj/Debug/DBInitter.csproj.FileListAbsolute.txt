@@ -1,0 +1,13 @@
+c:\users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\bin\Debug\DBInitter.exe.config
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\bin\Debug\DBInitter.exe
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\bin\Debug\DBInitter.pdb
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\obj\Debug\DBInitter.Form1.resources
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\obj\Debug\DBInitter.Properties.Resources.resources
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\obj\Debug\DBInitter.csproj.GenerateResource.Cache
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\obj\Debug\DBInitter.exe
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\obj\Debug\DBInitter.pdb
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\obj\Debug\DBInitter.csprojResolveAssemblyReference.cache
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antonio.santos\documents\visual studio 2015\Projects\DBInitter\DBInitter\bin\Debug\Resources\conf.json
+C:\Users\antonio.santos\Documents\Visual Studio 2015\Projects\DBInitter\DBInitter\obj\Debug\DBInitter.Installer1.resources

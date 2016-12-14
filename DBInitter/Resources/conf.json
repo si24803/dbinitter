@@ -1,0 +1,10 @@
+﻿{
+  "substitutions": {
+    "SVC_FINANCE_VALUES": "SVC_FINANCE_VALUES_AT",
+    "SVC_FINANCE_TRANSACTIONS": "SVC_FINANCE_TRANSACTIONS_AT"
+  },
+  "knownHosts": [ "localhost", "FFPTN814" ],
+  "knownPaths": [],
+  "commit": true,
+  "checkVersion": true
+}
