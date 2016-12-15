@@ -68,7 +68,7 @@ namespace DBInitter
                         query = query.Replace(original, DBInitter.Configs.Replacements[original]);
                     }
 
-                    Regex dbNameRe = new Regex(@"^use\s*([\w_]+)", RegexOptions.IgnoreCase);
+                    Regex dbNameRe = new Regex(@"^use\s*\[?([\w_]+)\]?", RegexOptions.IgnoreCase);
                     mc = dbNameRe.Match(query);
                     if (mc.Success)
                     {

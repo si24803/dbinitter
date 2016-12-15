@@ -1,1 +1,10 @@
-﻿{"checkVersion":true,"commit":true,"knownHosts":["localhost","FFPTN814"],"knownPaths":["C:\\FT\\Main\\Deploy\\SQLScripts\\ADMIN","C:\\FT\\Main\\Deploy\\SQLScripts\\SVC_Finance_Transactions","C:\\FT\\Main\\Deploy\\SQLScripts\\SVC_Finance_Values"],"substitutions":{"SVC_FINANCE_VALUES":"SVC_FINANCE_VALUES_AT","SVC_FINANCE_TRANSACTIONS":"SVC_FINANCE_TRANSACTIONS_AT"}}
+﻿{
+  "substitutions": {
+    "SVC_FINANCE_VALUES": "SVC_FINANCE_VALUES_AT",
+    "SVC_FINANCE_TRANSACTIONS": "SVC_FINANCE_TRANSACTIONS_AT"
+  },
+  "knownHosts": [ "localhost", "FFPTN814" ],
+  "knownPaths": [],
+  "commit": true,
+  "checkVersion": true
+}
